@@ -2,7 +2,7 @@
 
 # Multix
 
-ℹ️ This project is a fork of the [original project](https://github.com/polkadot-api/Multix), developed by [Thibaut Sardan](https://github.com/Tbaut).
+ℹ️ This project is a fork of the [original project](https://github.com/polkadot-api/Multix).
 
 Multix an interface to easily manage complex multisigs.
 
